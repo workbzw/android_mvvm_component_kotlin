@@ -8,3 +8,11 @@ dependencyResolutionManagement {
 }
 rootProject.name = "mvvm_kotlin"
 include ':app'
+include ':module_base'
+include ':module_base_standard'
+include ':module_base_custom'
+include ':module_biz_login'
+include ':module_biz_user'
+include ':module_biz_home'
+include ':module_biz_notifications'
+include ':module_biz_dashboard'
