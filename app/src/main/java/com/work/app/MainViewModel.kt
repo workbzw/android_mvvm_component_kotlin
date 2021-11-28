@@ -1,6 +1,6 @@
 package com.work.app
 
-import com.work.module_base_standard.BaseViewModel
+import com.work.module_base_standard.base.BaseViewModel
 
 /**
  * @author bzw [workbzw@outlook.com]

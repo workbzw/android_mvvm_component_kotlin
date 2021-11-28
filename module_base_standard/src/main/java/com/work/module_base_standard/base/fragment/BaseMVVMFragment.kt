@@ -8,7 +8,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.databinding.ViewDataBinding
 import androidx.lifecycle.ViewModelProvider
 import com.work.module_base_standard.BR
-import com.work.module_base_standard.BaseViewModel
+import com.work.module_base_standard.base.BaseViewModel
 import java.lang.reflect.ParameterizedType
 
 /**

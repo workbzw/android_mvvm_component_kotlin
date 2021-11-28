@@ -1,4 +1,4 @@
-package com.work.module_base_standard
+package com.work.module_base_standard.base
 
 import androidx.lifecycle.ViewModel
 

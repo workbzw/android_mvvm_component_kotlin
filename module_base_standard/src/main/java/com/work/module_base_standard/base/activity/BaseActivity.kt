@@ -1,7 +1,7 @@
 package com.work.module_base_standard.base.activity
 
 import androidx.databinding.ViewDataBinding
-import com.work.module_base_standard.BaseViewModel
+import com.work.module_base_standard.base.BaseViewModel
 
 /**
  * @author bzw [workbzw@outlook.com]
